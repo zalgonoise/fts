@@ -3,7 +3,7 @@ package fts
 import (
 	"log/slog"
 
-	"github.com/zalgonoise/x/cfg"
+	"github.com/zalgonoise/cfg"
 	"go.opentelemetry.io/otel/trace"
 )
 

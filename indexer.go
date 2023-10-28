@@ -3,7 +3,7 @@ package fts
 import (
 	"context"
 
-	"github.com/zalgonoise/x/cfg"
+	"github.com/zalgonoise/cfg"
 )
 
 // Indexer describes the actions that a full-text search index should expose. It is declared as an
