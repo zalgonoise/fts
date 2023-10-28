@@ -3,7 +3,7 @@ package log
 import (
 	"log/slog"
 
-	"github.com/zalgonoise/x/cfg"
+	"github.com/zalgonoise/cfg"
 )
 
 // Config defines optional configuration settings for a SpanContextHandler.

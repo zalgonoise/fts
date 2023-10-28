@@ -5,7 +5,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/zalgonoise/x/cfg"
+	"github.com/zalgonoise/cfg"
 	"go.opentelemetry.io/otel/trace"
 )
 
